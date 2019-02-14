@@ -1,5 +1,5 @@
 # GA_capstone-Housing_prices
-My machine learning capstone projects that predicts rental rates and property values in San Francisco using two datasets (Airbnb and SF Assessor data). I incorporate publicly available geospatial data to improve the accuracy of the models.
+My machine learning capstone project that predicts rental rates and property values in San Francisco using two datasets (Airbnb and SF Assessor data). I incorporate publicly available geospatial data to improve the accuracy of the models.
 
 There are three notebooks within this repository representing different stages of the project. First, the capstone_data_prev_aws.ipynb notebook was used to load some preliminary datasets and do some data exploration. Some of the datasets are edited slightly in this notebook and there are some preliminary maps of the dataset.
 
