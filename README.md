@@ -7,6 +7,6 @@ The Baseline_Models_aws.ipynb notebook has a collection of the different baselin
 
 The crime_311_parks_noise_models_aws.ipynb notebook contains model results after the geospatial data are added and some evalutation plots of the model results.
 
-Much of the data used in the final notebook are included as pickle files in this repository. It should be noted that some of these datasets are large and therefor it may take quite some time to run some of the models or parameter grid searches.
+Much of the data used in the final notebook are included as pickle files in this repository. It should be noted that some of these datasets are large and therefore it may take quite some time to run some of the models or parameter grid searches.
 
 Also included is a pdf of a brief presentation summarizing the study and its results.
